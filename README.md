@@ -19,4 +19,4 @@ We collected almost all the paper in recent years for BioNER and divided these a
 * Recognizing Nested Named Entity in Biomedical Texts: A Neural Network Model with Multi-Task Learning, BIBM 2019, [[paper]](https://ieeexplore.ieee.org/abstract/document/8982966)
 * Dataset-aware multi-task learning approaches for biomedical named entity recognition, Bioinformatics 2020, [[paper]](https://academic.oup.com/bioinformatics/article/36/15/4331/5838186)
 * DTranNER: biomedical named entity recognition with deep learning-based label-label transition model, BCM Bioinformatics 2020, [[paper]](https://pubmed.ncbi.nlm.nih.gov/32046638/)
-* An Empirical Study of Multi-Task Learning on BERT for Biomedical Text Mining, BioNLP 2020, [[paper]](An Empirical Study of Multi-Task Learning on BERT for Biomedical Text Mining)
+* An Empirical Study of Multi-Task Learning on BERT for Biomedical Text Mining, BioNLP 2020, [[paper]](https://arxiv.org/abs/2005.02799)
