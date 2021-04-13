@@ -2,7 +2,7 @@
 List of articles on biomedical named entity identification in recent years.
 
 ## Paper Lsit
-We collected almost all the paper in recent years for BioNER and divided these approaches into 4 groups based on the number of models and the way they are combined.
+We collected some representative papers in recent years for BioNER and divided these approaches into 4 groups based on the number of models and the way they are combined.
 
 ### Neural network for BioNER
 * Recurrent neural network models for disease name recognition using domain invariant features, ACL 2016, [[paper]](https://www.aclweb.org/anthology/P16-1209.pdf)
