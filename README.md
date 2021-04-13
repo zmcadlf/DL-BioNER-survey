@@ -20,3 +20,15 @@ We collected almost all the paper in recent years for BioNER and divided these a
 * Dataset-aware multi-task learning approaches for biomedical named entity recognition, Bioinformatics 2020, [[paper]](https://academic.oup.com/bioinformatics/article/36/15/4331/5838186)
 * DTranNER: biomedical named entity recognition with deep learning-based label-label transition model, BCM Bioinformatics 2020, [[paper]](https://pubmed.ncbi.nlm.nih.gov/32046638/)
 * An Empirical Study of Multi-Task Learning on BERT for Biomedical Text Mining, BioNLP 2020, [[paper]](https://arxiv.org/abs/2005.02799)
+
+### Transfer Learning for BioNER
+* Label-aware Double Transfer Learning for Cross-Specialty Medical Named Entity Recognition, NAACL 2018, [[paper]](https://arxiv.org/abs/1804.09021), [[code]](https://github.com/felixwzh/La-DTL)
+* Transfer learning for biomedical named entity recognition with neural networks, Bioinformatics 2018, [[paper]](https://doi.org/10.1093/bioinformatics/bty449)
+* LSTMVoter: chemical named entity recognition using a conglomerate of sequence labeling tools, Cheminformatics 2019, [[paper]](https://www.researchgate.net/profile/Alexander-Mehler-2/publication/330291633_LSTMVoter_Chemical_named_entity_recognition_using_a_conglomerate_of_sequence_labeling_tools/links/5c487cd192851c22a38ad105/LSTMVoter-Chemical-named-entity-recognition-using-a-conglomerate-of-sequence-labeling-tools.pdf0, [[code]](https://github.com/texttechnologylab/LSTMVoter)
+* Biobert: pre-trained biomedical language representation model for biomedical text mining, Bioinformatics 2020, [[paper]](https://doi.org/10.1093/bioinformatics/btz682), [[code]](https://github.com/dmis-lab/biobert)
+* HUNER: Improving Biomedical NER with Pretraining, Bioinformatics 2020, [[paper]](https://doi.org/10.1093/bioinformatics/btz528), [[code]](https://hu-ner.github.io/)
+
+### Hybrid model for BioNER
+* Learning Named Entity Tagger using Domain-Specific Dictionary, EMNLP 2018, [[paper]](https://www.aclweb.org/anthology/D18-1230.pdf), [[code]](https://github.com/shangjingbo1226/AutoNER)
+* Distantly Supervised Biomedical Named Entity Recognition with Dictionary Expansion, BIBM 2019, [[paper]](https://doi.org/10.1109/BIBM47256.2019.8983212), [[code]](https://github.com/xuanwang91/AutoBioNER)
+* Annotating the Pandemic: Named Entity Recognition and Normalisation in COVID-19 Literature, EMNLP 2020, [[paper]](https://www.aclweb.org/anthology/2020.nlpcovid19-2.27.pdf)
